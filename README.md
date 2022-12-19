@@ -21,6 +21,8 @@ The automated script utilises a couple of application to extract all the unique 
   sudo ./script.sh
   ````
 
-
 Make sure that all of them run properly to successfully execute the file. It is preferred to run the script with <b>sudo</b> permissions.
+
+### Note
+You can directly supply the dutch_domain.txt file to any tool likfe subfiner, httpx, etc. Happy Hacking!
 
